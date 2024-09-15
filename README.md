@@ -1,1 +1,1 @@
-# learningpathway
+this a a web application(prototype) where a student can enroll free for a course related to science, maths, physics and biology. the modules provide videos, notes and assessment. at the end of the course you earn a certificate.
